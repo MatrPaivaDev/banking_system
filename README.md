@@ -1,3 +1,4 @@
 # Banking System
 
-Building a basic banking system using the Python language, where clients can deposit, withdraw, and view their statement.
+Development of a basic banking system using Python, where clients can deposit, withdraw, and view their statements. 
+It also allows account and user creation, as well as listing created accounts.
